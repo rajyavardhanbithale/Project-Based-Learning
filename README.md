@@ -56,6 +56,4 @@ For other query types, there is no output.
 1 SilverCoins
 3 Diamonds
 4
-
-
 ```
